@@ -43,6 +43,6 @@ Repeat the same flow for Jamie's work on Events Page. Ensure Jamie's work is in 
 *   updated the event page.
 ![](./img/updated%20event%20page.png)
 *   Raise a PR for Jamie's work.
-![](./img/)
+![](./img/pull%20request%20for%20jamie%20.png)
 *   Merge Jamie's work to the `main` branch.
 ![](./img/jerry%20pull%20request%20merged.png)
